@@ -11,10 +11,9 @@ I’m interested in:
 
 ## 🌱 Currently Learning
 I’m currently learning:
+- Java and springboot
 - Advanced Python Programming
-- Cloud Computing (AWS, Azure)
 - React.js for Frontend Development
-- Data Visualization Techniques
 
 ## 💞️ Collaboration
 I’m looking to collaborate on:
