@@ -12,7 +12,7 @@ I’m interested in:
 ## 🌱 Currently Learning
 I’m currently learning:
 - Java and springboot
-- Advanced Python Programming
+- Devops Operations
 - React.js for Frontend Development
 
 ## 💞️ Collaboration
