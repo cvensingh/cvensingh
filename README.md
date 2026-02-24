@@ -24,7 +24,7 @@ I’m looking to collaborate on:
 
 ## 📫 How to Reach Me
 Feel free to reach out to me via:
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/shivedrasingh/)
+- LinkedIn: [Click Here!](https://www.linkedin.com/in/cvensingh/)
 
 ## 😄 Pronouns
 My pronouns are: He/Him
